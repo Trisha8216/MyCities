@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Cities</string>
+
+    <string name="city1">Chittagong</string>
+    <string name="city2">Dhaka</string>
+    <string name="city3">Coxbazar</string>
+    <string name="city4">Sylhet</string>
+
+    <string name="des_city1">Chittagong /tʃɪtəɡɒŋ/ (Bengali: চট্টগ্রাম Bengali pronunciation: [tʃɔt̠t̠ɔgram])
+        is a major coastal seaport city and financial centre in southeastern Bangladesh.
+    The city has a population of more than 2.5 million[1] while the metropolitan area has
+        a population of 4,009,423 at the 2011 Census,making it the second largest city in the country.
+        It is the capital of an eponymous district and division.
+        The city is located on the banks of the Karnaphuli River between the Chittagong Hill Tracts and the Bay of Bengal.</string>
+    <string name="des_city2">
+Dhaka City across Buriganga River – a painting by Frederick William Alexander de Fabeck in 1861[1]
+
+Dhaka, formerly spelled as Dacca in English, is the capital and one of the oldest cities of Bangladesh.
+    The history of Dhaka begins with the existence of urbanised settlements in the area that is now Dhaka
+        dating from the 7th century CE. The city area was ruled by the Buddhist kingdom of Kamarupa before
+        passing to the control of the Sena dynasty in the 9th century CE.[2] After the Sena dynasty, Dhaka
+        was successively ruled by the Turkic and Afghan governors descending from the Delhi Sultanate before
+        the arrival of the Mughals in 1608. After Mughals, British ruled the region for over 150 years until
+        the independence of India. </string>
+    <string name="des_city3">
+        Cox Bazar  is a city, fishing port,tourism centre and district headquarters in Bangladesh. The beach in Coxs Bazar is sandy and has a gentle
+        slope; with a unbroken length of 155 km (96 mi), it is one of the longest sea beaches in the world.[2][3][4]
+        It is located 150 km (93 mi) south of the industrial port of Chittagong. Cox's Bazar is also known by the name
+        Panowa, which Translates literally as "yellow flower." Another old name was "Palongkee".
+
+</string>
+    <string name="des_city4">Sylhet (Bengali: সিলেট), Sylheti: ꠍꠤꠟꠐ), also known as Jalalabad, is a metropolitan
+        city in northeastern Bangladesh. It is the administrative seat of Sylhet Division. The city is located on
+        the right bank of the Surma River in northeastern Bengal. It has a subtropical climate and lush highland terrain.
+        The city has a population of more than half a million.[1] Sylhet is one of Bangladesh's most important spiritual
+        and cultural centres. It is one of the most important cities of Bangladesh, after Dhaka and Chittagong due to its
+        importance to the country's economy. The city's dargahs, or burial sites of Muslim saints, attract several thousand
+        devotees each year.</string>
+</resources>
